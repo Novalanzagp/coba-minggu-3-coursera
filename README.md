@@ -1,2 +1,2 @@
 # coursera
-Introduction to Git and GitHu
+Introduction to Git and GitHub
